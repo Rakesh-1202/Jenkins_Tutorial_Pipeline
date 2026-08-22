@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jenkins Docker Project</title>
+</head>
+<body>
+    <h1>Hello from Jenkins and Docker!</h1>
+    <p>Docker image successfully built.</p>
+</body>
+</html>
